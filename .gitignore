@@ -1,0 +1,10 @@
+# ignore everything
+*
+
+# except...
+!.gitignore
+!.git
+!.gitattributes
+
+!*/content/dota_addons/threevthree/*
+!*/game/dota_addons/threevthree/*
