@@ -1,8 +1,0 @@
-threevthree
-{
-	material materials/overviews/threevthree.vmat
-	pos_x -5004
-	pos_y 4988
-	scale 9.783
-}
-

@@ -1,0 +1,6 @@
+--function GameMode:_InitGameMode()
+--  if GameMode._reentrantCheck then
+ --   return
+ -- end
+
+ -- GameRules:SetRuneSpawnTime(RUNE_SPAWN_TIME)
