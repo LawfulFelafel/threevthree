@@ -1,0 +1,8 @@
+threevthreebig
+{
+	material materials/overviews/threevthreebig.vmat
+	pos_x -5476
+	pos_y 5508
+	scale 10.722
+}
+
